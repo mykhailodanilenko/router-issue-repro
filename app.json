@@ -28,9 +28,6 @@
     },
     "plugins": [
       "expo-router"
-    ],
-    "experiments": {
-      "baseUrl": "/router-issue-repro"
-    }
+    ]
   }
 }
